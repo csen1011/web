@@ -9,6 +9,13 @@
 
 [15 Puzzle](https://15puzzle.netlify.app)  
 
+[Tic-tac-toe Game](https://g.co/kgs/vJzhxj)  
+
+[Snake Game](https://g.co/kgs/fjDR34)  
+
+[Animal sounds](https://g.co/kgs/18mV3b)  
+
+
 <!-- # C programming 
 
 [C language vocabulary](https://www.icloud.com/keynote/065MgCYI_Kisr_pZG8tWLwtCQ#C_language_vocabulary)  
