@@ -7,6 +7,8 @@
 
 [2048 Game](2048-game)  
 
+[15 Puzzle](https://15puzzle.netlify.app)  
+
 <!-- # C programming 
 
 [C language vocabulary](https://www.icloud.com/keynote/065MgCYI_Kisr_pZG8tWLwtCQ#C_language_vocabulary)  
