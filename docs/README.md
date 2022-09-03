@@ -16,7 +16,20 @@
 [Animal sounds](https://g.co/kgs/18mV3b)  
 
 
-<!-- # C programming 
+<!-- 
+
+# Other references
+
+https://htmlcolors.com
+This is nice.
+
+https://g.co/kgs/4fHiAf
+Google Color picker
+
+Remove BG
+https://www.remove.bg
+
+# C programming 
 
 [C language vocabulary](https://www.icloud.com/keynote/065MgCYI_Kisr_pZG8tWLwtCQ#C_language_vocabulary)  
 
