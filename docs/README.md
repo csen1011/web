@@ -1,9 +1,7 @@
 
 # Games
 
-[Karel Game](karel-game)  
-
-[Karel Game in Telugu](karel-game-te)  
+[Karel Game](select-karel-game-version)  
 
 [2048 Game](2048-game)  
 
