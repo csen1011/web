@@ -1,9 +1,9 @@
 
 # Games
 
-[Karel Game](select-karel-game-version)  
+[Karel Game](https://csen1011.com/select-karel-game-version)  
 
-[2048 Game](2048-game)  
+[2048 Game](https://csen1011.com/2048-game)  
 
 [15 Puzzle](https://15puzzle.netlify.app)  
 
